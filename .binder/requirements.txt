@@ -8,6 +8,4 @@ scikit-learn
 spacy
 collatex
 Levenshtein
-graphviz
 openpyxl
-pprint
