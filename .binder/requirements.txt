@@ -1,0 +1,13 @@
+statistics
+pandas
+scipy
+matplotlib
+numpy
+ipywidgets
+scikit-learn
+spacy
+collatex
+Levenshtein
+graphviz
+openpyxl
+pprint
