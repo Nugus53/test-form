@@ -1,0 +1,22 @@
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip
+    - setuptools
+    - matplotlib
+    - jupyterlab
+    - pip:
+        - statistics
+        - pandas
+        - scipy
+        - matplotlib
+        - numpy
+        - ipywidgets
+        - scikit-learn
+        - spacy
+        - collatex
+        - Levenshtein
+        - graphviz
+        - openpyxl
+        - pprint
